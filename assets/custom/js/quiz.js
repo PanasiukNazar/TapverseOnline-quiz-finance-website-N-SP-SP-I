@@ -57,7 +57,7 @@ const startStep = {
        <div class="container quiz-wrapper">
             <div class="quiz-content">
                 <div class="content">
-                    <img class="quiz-image" src="assets/custom/images/bg.png"/>
+                    <img class="quiz-image" src="assets/custom/images/bg1.png"/>
                     <h2 class="title">Quiz Financiero Interactivo</h2>
                     <h3 class="sub-title">Pon a prueba tus conocimientos financieros</h3>
                     <h5 class="text">Descubre cuánto sabes sobre inversiones, ahorro, gestión de riesgos y planificación financiera con este quiz educativo y entretenido.</h5>
@@ -111,7 +111,7 @@ const questionsStep = {
         $container.innerHTML = `
           <div class="container quiz-wrapper">
             <div class="quiz-content text-center quiz-start">
-                <img class="quiz-image" src="assets/custom/images/bg.png"/>
+                <img class="quiz-image" src="assets/custom/images/bg1.png"/>
                 <div class="question-wrapper">
                     <h3 class="question mt-4">${question.label}</h3>
                 </div>
@@ -187,7 +187,7 @@ const finalStep = {
         <div class="container quiz-wrapper">
             <div class="row quiz-content form-content">
                 <div class="col-lg-12 col-md-12 col-sm-12" style="display: flex; justify-content: center; margin-top: 20px">
-                    <img class="quiz-image" src="assets/custom/images/bg.png"/>
+                    <img class="quiz-image" src="assets/custom/images/bg1.png"/>
                 </div>
 
                 <div class="col-lg-6 col-md-6 col-sm-12 form-block">
